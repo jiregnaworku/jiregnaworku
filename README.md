@@ -40,7 +40,7 @@ Learning and applying industry best practices in software engineering
 🔍 Featured Projects
 
 🎨 Portfolio Website (React)
-🔗 [GitHub Repo](https://github.com/jiregnaworku/portfolio) | 🌐 [Live Demo][(https://github.com/jiregnaworku/portfolio.git)](https://jiregnaworku.github.io/portfolio)
+🔗 [GitHub Repo](https://github.com/jiregnaworku/portfolio) | 🌐 [Live Demo][(https://jiregnaworku.github.io/portfolio)
 A sleek and responsive personal portfolio built with React to showcase my work, skills, and experience.
 
 ☕ Online Coffee Shop
