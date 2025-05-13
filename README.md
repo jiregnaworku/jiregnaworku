@@ -36,11 +36,11 @@ Learning and applying industry best practices in software engineering
 
 🔍 Featured Projects
 🎨 Portfolio Website (React)
-🔗 GitHub Repo | 🌐 Live Demo
+🔗 [GitHub Repo](https://github.com/jiregnaworku/portfolio) | 🌐 [Live Demo][(https://github.com/jiregnaworku/portfolio.git)](https://jiregnaworku.github.io/portfolio)
 A sleek and responsive personal portfolio built with React to showcase my work, skills, and experience.
 
 ☕ Online Coffee Shop
-🔗 GitHub Repo | ☕ Live Demo
+🔗 [GitHub Repo](https://github.com/jiregnaworku/Online-coffee-shop) | ☕ [Live Demo](https://jiregnaworku.github.io/Online-coffee-shop/)
 A fully responsive online coffee shop interface built using vanilla HTML, CSS, and JavaScript.
 
 💡 All projects are open-source. Contributions or feedback are always welcome! 
@@ -51,7 +51,7 @@ A fully responsive online coffee shop interface built using vanilla HTML, CSS, a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiregnaworku&show_icons=true&theme=dracula )
 📬 Let's Connect!
-📫 jiregna123w@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/jiregna-worku) | 📍 Ethiopia
+📫 jiregna123w@gmail.com | 💼 [Linkedin}www.linkedin.com/in/jiregna-worku-5519302aa | 📍 Ethiopia
 💬 Open to collaboration, freelance opportunities, or just a tech chat!
 
 💡 Fun Fact
