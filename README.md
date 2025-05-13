@@ -9,6 +9,9 @@ Intern Developer @ OICT-Solution
 Contributing to web and mobile application development
 Collaborating in agile environments to deliver real-world software solutions
 Learning and applying industry best practices in software engineering
+
+
+
 🔧 Tech Stack
 💻 Programming Languages
 
@@ -35,6 +38,7 @@ Learning and applying industry best practices in software engineering
 
 
 🔍 Featured Projects
+
 🎨 Portfolio Website (React)
 🔗 [GitHub Repo](https://github.com/jiregnaworku/portfolio) | 🌐 [Live Demo][(https://github.com/jiregnaworku/portfolio.git)](https://jiregnaworku.github.io/portfolio)
 A sleek and responsive personal portfolio built with React to showcase my work, skills, and experience.
@@ -58,6 +62,8 @@ A fully responsive online coffee shop interface built using vanilla HTML, CSS, a
 I love solving problems through code — whether it's designing intuitive UIs or making logic flow like poetry. ☕🧩
 
 🛠 Tools I Use
+
+
 VS Code
 Git & GitHub
 Figma (for design)
